@@ -266,7 +266,6 @@ a:focus {
 .o-layout {
     display: flex;
     flex-wrap: wrap;
-    width: 100%;
 }
 
     .o-layout__item {
